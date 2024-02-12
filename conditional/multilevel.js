@@ -7,7 +7,7 @@
 //     console.log("you have to pay" + price);
 // }
 
-
+/*
 
 const price = 4000;
 
@@ -37,6 +37,5 @@ else {
     console.log("you have passed the exam");
 }
 
-git add .
-git commit -m "commit "
-git push
+// 
+ */
