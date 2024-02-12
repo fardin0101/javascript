@@ -26,6 +26,17 @@ if (price >= 5000) {
     console.log("you have to pay" + price);
 }
 
+// grade finding
+let grade = 5;
+if (grade = 5) {
+    console.log(" you got A+")
+} else if (grade >= 4) {
+    console.log(" you have got A")
+}
+else {
+    console.log("you have passed the exam");
+}
+
 git add .
 git commit -m "commit "
 git push
