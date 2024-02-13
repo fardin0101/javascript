@@ -11,9 +11,11 @@ else {
 */
 //  ?        :
 // condition ?  do someething when true : do something false
-const age = 30;
+//  const age = 30;
 // age >= 10 ? console.log("vote dio") : console.log(" ghumai thako");// condition before question mark
 
-const price = 500;
+let price = 500;
 const isLeader = true;
 
+price = isLeader === true ? 44 : price + 199;
+console.log(price);
